@@ -13,6 +13,7 @@ Game : MARRAKECH [https://www.jeuxavolonte.asso.fr/regles/marrakech.pdf]
 In this project, the goal was to apply Monte Carlo search algorithms to the board game Marrakech.
 
 The project was implemented in Python3 on Google colab.
+
 ----------------------------------------------
 Repository organization: 
 * the folder [Experiments reconstruction](https://github.com/abouhadid/Data-Wrangling/tree/main/Experiments%20reconstruction) contains the notebook of the experiments discussed in the article along with the 5 datasets and plots.
